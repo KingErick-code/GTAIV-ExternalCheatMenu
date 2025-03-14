@@ -8,7 +8,7 @@
 - **External Tool**: No need to modify the game files; the menu interacts with the game through external methods, keeping the original files intact.
 - **User-Friendly Interface**: The cheat menu provides an easy-to-use graphical interface (GUI) for interacting with various game cheats and settings.
 - **Real-time Activation**: Activate cheats in real-time, without the need to restart the game or apply patches.
-- **Support for GTA IV**: Designed specifically for *Grand Theft Auto IV*, the tool enhances the player’s experience with additional game options.
+- **Support for GTA IV**: Designed specifically for *Grand Theft Auto IV*, the tool enhances the playerâ€™s experience with additional game options.
 
 ### Installation
 1. Download the latest release from the repository.
@@ -27,4 +27,4 @@
 Contributions are welcome! If you find bugs or have new feature ideas, feel free to fork the repository and submit pull requests.
 
 ### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU License - see the [LICENSE](LICENSE) file for details.
